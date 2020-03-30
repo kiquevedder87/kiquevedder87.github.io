@@ -1,0 +1,130 @@
+html {
+  min-height: 100%;
+  margin: 0;
+  font-family: "Segoe UI";
+  background-color: white;
+  
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  margin: 0;
+  height: 100vh;
+  background-color:#348cb2 ;
+  
+}
+
+.background{ 
+  height: 100%;
+  
+  background-color: #348cb2;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.header{
+  text-shadow: 3px 2px 2px grey;
+  height: 5em;
+  text-align: center;
+  font-size: 24px;
+  background-color: #348cb2;
+
+  
+}
+.footer{
+  text-shadow: 1px 1px 1px grey;
+  bottom: 0;
+  position: static;
+  background-color: #348cb2;
+  width: 100%;
+}
+.nav{
+  text-shadow: 1px 1px 1px white;
+  background-color: red;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
+.caja1 {
+  text-shadow: 1px 1px 1px white;
+  text-align: center;
+  margin: auto;
+  color: white;
+  width: 200px;
+}
+.caja2{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja2:hover{
+  width: 160px;
+}
+.caja3{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja3:hover{
+  width: 160px;
+}
+.caja4{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja4:hover{
+  width: 160px;
+}
+.caja5{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja5:hover{
+  width: 160px;
+}
+.caja6{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja6:hover{
+  width: 160px;
+}
+.caja7{
+  color: black;
+  font-size: 16px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  border: solid 2px lightblue;
+  width: 150px;
+}
+.caja7:hover{
+  width: 160px;
+}

@@ -1,0 +1,8 @@
+.cajaflot {
+    float: right;
+    padding: 50px;
+    margin: 50px;
+    background-color: yellow;
+    border: 1px solid black;
+    box-shadow: 3px 3px 10px black;
+}
